@@ -7,7 +7,7 @@ Building next-generation mobile experiences at the intersection of React Native,
 
 ## Core Technologies
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-<img align="left" alt="Expo" width="26px" src="https://images.icon-icons.com/2389/PNG/512/expo_logo_icon_145293.png" />
+<img align="left" alt="Expo" width="26px" src="https://blog.kakaocdn.net/dn/dTf2xp/btsIRxOocZw/onKt7pPNl0L0BVQ3uxP4QK/img.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
