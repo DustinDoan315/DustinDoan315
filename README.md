@@ -1,6 +1,16 @@
-# Dustin Doan - Mobile & AI Developer
+# 👨‍💻 Dustin Doan - Mobile & AI Developer
 
-[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustinDoan315)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub followers](https://img.shields.io/github/followers/DustinDoan315?style=social)](https://github.com/DustinDoan315)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dustindoan315?style=social)](https://twitter.com/dustindoan315)
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/DustinDoan315">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DustinDoan315&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DustinDoan315&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DustinDoan315&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ## About Me
 Building next-generation mobile experiences at the intersection of React Native, Expo, and AI. Passionate about creating efficient, intuitive applications that leverage cutting-edge technologies. Open to collaboration and always exploring new technical frontiers.
