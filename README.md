@@ -1,7 +1,7 @@
 # 👨‍💻 Dustin Doan - Mobile & AI Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/DustinDoan315?style=social)](https://github.com/DustinDoan315)
-[![Twitter Follow](https://img.shields.io/twitter/follow/dustindoan315?style=social)](https://twitter.com/dustindoan315)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dustindoan315?style=social)](https://x.com/dustin_doan_315)
 
 ## About Me
  - Building next-generation mobile experiences at the intersection of React Native, Expo, and AI.
