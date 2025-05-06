@@ -3,6 +3,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/DustinDoan315?style=social)](https://github.com/DustinDoan315)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dustindoan315?style=social)](https://twitter.com/dustindoan315)
 
+## About Me
+ - Building next-generation mobile experiences at the intersection of React Native, Expo, and AI.
+ - Passionate about creating efficient, intuitive applications that leverage cutting-edge technologies.
+ - Open to collaboration and always exploring new technical frontiers.
+
 ## 📊 GitHub Stats
 
 <a href="https://github.com/DustinDoan315">
@@ -12,10 +17,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DustinDoan315&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## About Me
-Building next-generation mobile experiences at the intersection of React Native, Expo, and AI. Passionate about creating efficient, intuitive applications that leverage cutting-edge technologies. Open to collaboration and always exploring new technical frontiers.
-
-## Core Technologies
+## 🛠️ Core Technologies
 <img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
 <img align="left" alt="Expo" width="26px" src="https://blog.kakaocdn.net/dn/dTf2xp/btsIRxOocZw/onKt7pPNl0L0BVQ3uxP4QK/img.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -34,7 +36,7 @@ Building next-generation mobile experiences at the intersection of React Native,
 ## 🔍 Current Focus
 
 - 📱 Mobile Development with React Native
-- - 🧠 AI Implementation
+- 🧠 AI Implementation
 - 🔗 Blockchain Integration
 - 🚀 Performance Optimization
 
