@@ -31,12 +31,14 @@ Building next-generation mobile experiences at the intersection of React Native,
 <br />
 <br />
 
-## Currently Exploring
-- Mobile-first AI integrations
-- React Native performance optimization
-- Cross-platform development with Expo
-- Trading simulation applications
+## 🔍 Current Focus
 
-## Connect with me
+- 📱 Mobile Development with React Native
+- - 🧠 AI Implementation
+- 🔗 Blockchain Integration
+- 🚀 Performance Optimization
+
+## 📫 How to reach me:
+
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/%C4%91o%C3%A0n-kh%C3%A1nh-%C4%91%C3%B4ng-a3799a234/)
 <br />
