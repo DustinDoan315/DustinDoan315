@@ -6,8 +6,11 @@
 ## 📱 About Me
 
 ⚛️ Building next-generation mobile experiences at the intersection of React Native, Expo, and AI.
+
 🧠 Passionate about creating efficient, intuitive applications that leverage cutting-edge technologies.
+
 🔄 Open to collaboration and always exploring new technical frontiers.
+
 🚀 Bridging mobile development with emerging blockchain solutions.
 
 ## 📊 GitHub Stats
