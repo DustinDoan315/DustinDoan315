@@ -1,4 +1,4 @@
-# 👨‍💻 Dustin Doan - React Native Expert | AI Enthusiast | Blockchain Explorer
+# 👨‍💻 Dustin Doan - React Native Expert | AI Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/DustinDoan315?style=social)](https://github.com/DustinDoan315)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dustindoan315?style=social)](https://x.com/dustin_doan_315)
@@ -6,11 +6,8 @@
 ## 📱 About Me
 
 ⚛️ Building next-generation mobile experiences at the intersection of React Native, Expo, and AI.
-
 🧠 Passionate about creating efficient, intuitive applications that leverage cutting-edge technologies.
-
 🔄 Open to collaboration and always exploring new technical frontiers.
-
 🚀 Bridging mobile development with emerging blockchain solutions.
 
 ## 📊 GitHub Stats
